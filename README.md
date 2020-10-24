@@ -1,7 +1,9 @@
 # ethical_graphql
 
     npm install
+
 followed by
+
     node .
 
 Playground is accessible at <code>localhost:4000/playground</code>, endpoint for GraphQL instance set to  <code>localhost:4000/graphql</code>.
